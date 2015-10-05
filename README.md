@@ -1,5 +1,7 @@
 # Paper.js - The Swiss Army Knife of Vector Graphics Scripting
 
+[![Join the chat at https://gitter.im/nancymark/paper.js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nancymark/paper.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 If you want to work with Paper.js, simply download the latest "stable" version from [http://paperjs.org/download/](http://paperjs.org/download/)
 
 - Website: <http://paperjs.org/>
